@@ -235,4 +235,4 @@ int replace_vars(info_t *);
 void check_chain(info_t *, char *, size_t *, size_t, size_t);
 
 
-#endif _SHELL_H_
+#endif
